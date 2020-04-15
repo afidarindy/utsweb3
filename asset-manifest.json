@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/utsweb3/static/css/main.d1b05096.chunk.css",
+    "main.js": "/utsweb3/static/js/main.d596b3a8.chunk.js",
+    "main.js.map": "/utsweb3/static/js/main.d596b3a8.chunk.js.map",
+    "runtime-main.js": "/utsweb3/static/js/runtime-main.8b356d58.js",
+    "runtime-main.js.map": "/utsweb3/static/js/runtime-main.8b356d58.js.map",
+    "static/css/2.69121389.chunk.css": "/utsweb3/static/css/2.69121389.chunk.css",
+    "static/js/2.1d5c0998.chunk.js": "/utsweb3/static/js/2.1d5c0998.chunk.js",
+    "static/js/2.1d5c0998.chunk.js.map": "/utsweb3/static/js/2.1d5c0998.chunk.js.map",
+    "index.html": "/utsweb3/index.html",
+    "precache-manifest.fa4b45dc76737f06c7d14dc810d4908e.js": "/utsweb3/precache-manifest.fa4b45dc76737f06c7d14dc810d4908e.js",
+    "service-worker.js": "/utsweb3/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/utsweb3/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/utsweb3/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1d5c0998.chunk.js.LICENSE.txt": "/utsweb3/static/js/2.1d5c0998.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b356d58.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.1d5c0998.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d596b3a8.chunk.js"
+  ]
+}
